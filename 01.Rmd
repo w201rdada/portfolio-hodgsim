@@ -1,24 +1,34 @@
-# My first cool idea {#slug-one}
+#Tackling the Opioid Crisis on the Front Line
+###{#stopping-overdoses}
 
-#### Keywords
 
-yaba, daba, do
+####Keywords
 
-## A beginning.
+*Opioids, Overdose, Naloxone, Fentanyl, Drug Policy*
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
 
-## A middle.
+####An immediate crisis
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+Over 64,000 Americans died from drug overdoses in 2016, an increase of 21% over the prior year, making it the leading cause of death for people under 50. The vast majority of fatal overdoses involve opioids, and the number of deaths involving fentanyl (a synthetic opioid up to 100 times as potent as morphine) has increased from 3,000 three years ago, to over 20,000 last year ^[1]. An emergency treatment called Naloxone is effective at reversing overdoses, however, it is a prescription medication and therefore not generally available to the public or first responders. Easier access to Naloxone could be a critical tool in the fight against deaths by overdose.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+####A Front Line Response
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+The underlying causes of the opioid crisis are complex, and lasting solutions will require a multi-disciplinary focus and potentially long term structural changes. This proposal seeks to address only one aspect, which is the immediate lethality of the current problem, by making resources available in a way that provides victims the best chance of survival.
 
-## An end.
+The first part of the study would examine the effectiveness of efforts to deregulate the distribution of Naloxone. These vary by state, and statutes range from the protection of doctors from criminal liability for prescribing Naloxone, to releasing laypeople from criminal or civil liability for using it, even if they acted without reasonable care.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+State-level data is available showing the introduction and progression of these statutes over time, beginning in 2001 ^[2]. The number of opioid related deaths could then be examined in light of policy at the time, after controlling for the mix of opioids and underlying growth in overdoses ^[3]. This may reveal which types of legislation have the greatest impact, and whether the more costly and ethically questionable option of granting public access to Naloxone has a significant marginal effect when compared to providing it to first responders only. The results could then be used to help shape public policy.
+
+The second part would be to identify hotspots of fentanyl-related events, which can require multiple doses of Naloxone to deal with. Regional, non-random concentrations of overdoses may indicate its use by a local trafficker. Effective intervention would require access to contemporary and continually updated data, but it would allow first responders and other emergency staff to ensure that they are prepared with sufficient doses, and that they take proper precautions to avoid exposure to a highly toxic substance. Visualizations showing the location of events over time could provide valuable information to law enforcement, potentially helping to identify the source, spread and likely supply routes of fentanyl-tainted products.
+
+####Desired Outcome
+
+The overall goal of the study is to provide information that can be used to maximize the availability of Naloxone in order to reduce preventable deaths. This will be done in two ways; first, by identifying the most effective legal framework that could be implemented and using the results to influence policymakers, and second, by ensuring that sufficient supplies are available and that they targeted to the correct areas. Additionally, data from the second part of the study would be made available to law enforcement, in an attempt to directly restrict the supply of illegal opioids and stop overdoses before they occur.   
+
+
+<sup>^[1] : Center for Disease Control, www.cdc.gov/nchs/data/health_policy/monthly-drug-overdose-death-estimates.pdf,
+https://wonder.cdc.gov/controller/saved/D76/D15F907  
+
+<sup>^[2]: pdaps.org/datasets/laws-regulating-administration-of-naloxone-1501695139  
+
+<sup>^[3] An assumption is made that greater access to Naloxone leads to greater availability. This could be examined by studying prescription rates.
