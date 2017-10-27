@@ -1,25 +1,23 @@
-# My second cool idea {#slug-two}
+## Maximizing the impact of Microfinance Initiatives
+{#fighting-poverty}
 
-#### Keywords
+### Keywords
 
-yaba, daba, do
+*Microfinance, financial inclusion, poverty reduction, sustainable development*
 
-## A beginning.
+#### Traditional wisdom about the benefits of microfinance is increasingly being questioned
 
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+Lack of access to capital can be a serious problem for those living in poverty. Unable to borrow money at reasonable rates, they either miss out on opportunities or turn to usurious lenders, making their situation worse. Microfinance initiatives were developed in response, whereby supporters could lend amounts that they would deem small to borrowers in developing countries. Microfinance has historically been heralded as a significant poverty reduction tool, however, an increasing number of studies are beginning to question its efficacy.
 
-## A middle.
+#### Data could be used to reduce uncertainty while improving outcomes
 
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
+Microfinance institutions (MFI's) are estimated by the World Bank to provide loans totaling $100 billion to approximately 200 million people, and yet despite the size of these programs, there is limited evidence that they have long-term positive impacts. Early studies were based upon surveys of borrowers, and reported increases in employment and reductions in poverty, but more recent studies (that tend to focus on the wider region in which MFI's operate) have cast doubts upon the magnitude and sustainability of benefits.
+
+This study would attempt to provide data-driven insights to MFI's, and bridge the gap between small scale surveys and high level measures of regional economic output. Using a large, granular data set of individual loan performance, the study would attempt to establish whether there are particular types of loans that lead to economic success. In addition, it would examine whether these vary by region and gender. Finally, it would attempt to examine whether there are factors other than the interest rate that indicate a higher probability that the loan will result in default or over-indebtedness. Default rates are a critical factor in determining whether the MFI can be self sustaining, or whether it will require subsidies.
+
+Data would be obtained from a US non-profit, that works with 328 MFI's across the globe who have made over 2.6 million loans. An assumption would be made that successful repayment of the loan is an indicator that the project funded was economically beneficial (i.e. the borrower generated sufficient profits to repay). One ethical concern is whether MFI's might restrict loans that have a social benefit but which have a more indirect economic impact, for example, loans for required medical procedures or home improvements. The purpose is not to further exclude people, but to allow the MFI to accurately assess it's risk, so that it can adjust rates and continue to operate, or apply for subsidies if required.
 
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+#### Overall benefit of the study
 
-
-Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
-
-## An end.
-
-Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.
+Broad-based regional assessments of the benefits of microfinance may overlook the impact that a loan can have on an individual borrower, but as the industry matures, useful data is becoming increasingly available. In order to carry out their fundamental mission to combat financial exclusion, MFI's need to ensure that their actions are actually beneficial to their clients. The insights from this study could help them to maximize their impact, by targeting loans to where they will have the greatest economic benefit, while properly risk assessing loans that fit their social mandate but that require additional subsidies.
