@@ -7,7 +7,7 @@
 
 #### Traditional wisdom about the benefits of microfinance is increasingly being questioned
 
-Lack of access to capital can be a serious problem for those living in poverty. Unable to borrow money at reasonable rates, they either miss out on opportunities or turn to usurious lenders, making their situation worse. Microfinance initiatives were developed in response, whereby supporters could lend amounts that they would deem small to borrowers in developing countries. Microfinance has historically been heralded as a significant poverty reduction tool, however, an increasing number of studies are beginning to question its efficacy.
+Lack of access to capital can be a serious problem for those living in poverty. Unable to borrow money at reasonable rates, they either miss out on opportunities or turn to usurious lenders, making their situation worse. Microfinance initiatives were developed in response, whereby supporters could lend modest amounts to borrowers in developing countries. Microfinance has historically been heralded as a significant poverty reduction tool, however, an increasing number of studies are beginning to question its efficacy.
 
 #### Data could be used to reduce uncertainty while improving outcomes
 
@@ -15,7 +15,7 @@ Microfinance institutions (MFI's) are estimated by the World Bank to provide loa
 
 This study would attempt to provide data-driven insights to MFI's, and bridge the gap between small scale surveys and high level measures of regional economic output. Using a large, granular data set of individual loan performance, the study would attempt to establish whether there are particular types of loans that lead to economic success. In addition, it would examine whether these vary by region and gender. Finally, it would attempt to examine whether there are factors other than the interest rate that indicate a higher probability that the loan will result in default or over-indebtedness. Default rates are a critical factor in determining whether the MFI can be self sustaining, or whether it will require subsidies.
 
-Data would be obtained from a US non-profit, that works with 328 MFI's across the globe who have made over 2.6 million loans. An assumption would be made that successful repayment of the loan is an indicator that the project funded was economically beneficial (i.e. the borrower generated sufficient profits to repay). One ethical concern is whether MFI's might restrict loans that have a social benefit but which have a more indirect economic impact, for example, loans for required medical procedures or home improvements. The purpose is not to further exclude people, but to allow the MFI to accurately assess it's risk, so that it can adjust rates and continue to operate, or apply for subsidies if required.
+Data would be obtained from a US non-profit, that works with 328 MFI's across the globe who have made over 2.6 million loans. An assumption would be made that successful repayment of the loan is an indicator that the project funded was economically beneficial (i.e. the borrower generated sufficient profits to repay). One ethical concern is whether MFI's might restrict loans that have a social benefit but which have a more indirect economic impact, for example, loans for required medical procedures or home improvements. The purpose is not to further exclude people, but to allow the MFI to accurately assess it's risk, so that it can adjust rates and continue to operate, or anticipate the need for subsidies.
 
 
 #### Overall benefit of the study
