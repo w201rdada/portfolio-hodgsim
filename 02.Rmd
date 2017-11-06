@@ -1,23 +1,25 @@
-## Maximizing the impact of Microfinance Initiatives
+### Maximizing the impact of Microfinance Initiatives
+
 {#fighting-poverty}
 
-### Keywords
+#### Keywords
 
 *Microfinance, financial inclusion, poverty reduction, sustainable development*
 
-#### Traditional wisdom about the benefits of microfinance is increasingly being questioned
+##### The rise of microfinance
 
-Lack of access to capital can be a serious problem for those living in poverty. Unable to borrow money at reasonable rates, they either miss out on opportunities or turn to usurious lenders, making their situation worse. Microfinance initiatives were developed in response, whereby supporters could lend modest amounts to borrowers in developing countries. Microfinance has historically been heralded as a significant poverty reduction tool, however, an increasing number of studies are beginning to question its efficacy.
+Paulette is a disabled single mother, living with her child in a busy town in Madagascar. She earns $900 per year working in a grocery store, but loves embroidery, and believes that she could lift herself out of poverty by selling her work to tourists. She would need $650 to start a business, but that amount is far more than she could raise herself, and without collateral, no local bank would lend her that much.
 
-#### Data could be used to reduce uncertainty while improving outcomes
+The concept of microfinance was developed in response to situations exactly like this, whereby supporters in the West could lend small amounts to borrowers in developing countries, via a locally established Microfinance Institution (MFI). The industry has grown steadily since the 1970's, and MFI's are now estimated by the World Bank to provide loans totaling $100 billion to approximately 200 million people. Despite the size and history of these programs, the nature of the borrower is such that credit risk can be very difficult to assess.
 
-Microfinance institutions (MFI's) are estimated by the World Bank to provide loans totaling $100 billion to approximately 200 million people, and yet despite the size of these programs, there is limited evidence that they have long-term positive impacts. Early studies were based upon surveys of borrowers, and reported increases in employment and reductions in poverty, but more recent studies (that tend to focus on the wider region in which MFI's operate) have cast doubts upon the magnitude and sustainability of benefits.
+##### Quantifying risk in the absence of traditional measures
 
-This study would attempt to provide data-driven insights to MFI's, and bridge the gap between small scale surveys and high level measures of regional economic output. Using a large, granular data set of individual loan performance, the study would attempt to establish whether there are particular types of loans that lead to economic success. In addition, it would examine whether these vary by region and gender. Finally, it would attempt to examine whether there are factors other than the interest rate that indicate a higher probability that the loan will result in default or over-indebtedness. Default rates are a critical factor in determining whether the MFI can be self sustaining, or whether it will require subsidies.
+A loan that can't be repaid is bad for the borrower and depletes the capital of the MFI, leading to higher rates for everyone. Traditional measures of credit risk are not available, but is it possible to use previous loan data to identify features that are more likely to lead to successful repayment?
 
-Data would be obtained from a US non-profit, that works with 328 MFI's across the globe who have made over 2.6 million loans. An assumption would be made that successful repayment of the loan is an indicator that the project funded was economically beneficial (i.e. the borrower generated sufficient profits to repay). One ethical concern is whether MFI's might restrict loans that have a social benefit but which have a more indirect economic impact, for example, loans for required medical procedures or home improvements. The purpose is not to further exclude people, but to allow the MFI to accurately assess it's risk, so that it can adjust rates and continue to operate, or anticipate the need for subsidies.
+Using a large, granular data set of individual loan performance, the study would attempt to establish the probability of repayment across different loan types, and examine whether these vary by region and gender. This would potentially allow MFI's to make better decisions, and relay insights about successful businesses to help educate the people that they are trying to lift out of poverty.
 
+Data would be obtained from a US non-profit that works with 328 MFI's across the globe, who have made over 2.6 million loans. One ethical concern is whether improved risk analytics would change MFI behavior in a way that is detrimental to borrowers. MFI's may begin to restrict riskier loans that have a social benefit but a more indirect or longer term economic impact, such as those for medical procedures or home improvements. The intention is not to further exclude people, but to allow the MFI to accurately assess it's risk, so that it can adjust rates and anticipate the need to subsidize these types of loans.
 
-#### Overall benefit of the study
+##### Overall benefit of the study
 
-Broad-based regional assessments of the benefits of microfinance may overlook the impact that a loan can have on an individual borrower, but as the industry matures, useful data is becoming increasingly available. In order to carry out their fundamental mission to combat financial exclusion, MFI's need to ensure that their actions are actually beneficial to their clients. The insights from this study could help them to maximize their impact, by targeting loans to where they will have the greatest economic benefit, while properly risk assessing loans that fit their social mandate but that require additional subsidies.
+In order to carry out their fundamental mission to combat financial exclusion, non-profit MFI's should ensure that their actions are actually beneficial to their clients. In Paulette's case, they were - she set up a workshop, repaid her loan, and made enough profit to buy some land. The insights from this study could help make this type of outcome more likely, by helping MFI's to direct both capital and borrowers towards areas that result in the highest probability of repayment.
