@@ -1,5 +1,3 @@
-http://hub.w201rdada.org/v2/gh/w201rdada/portfolio-hodgsim/master?urlpath=rstudio
-
 [![Binder](http://hub.w201rdada.org/badge.svg)](http://hub.w201rdada.org/v2/gh/w201rdada/portfolio-hodgsim/master?urlpath=rstudio)
 
 # My Portfolio
