@@ -1,17 +1,18 @@
 #Tackling the Opioid Crisis on the Front Line
-###{#stopping-overdoses}
+
+{#stopping-overdoses}
 
 
-####Keywords
+**Keywords**
 
 *Opioids, Overdose, Naloxone, Fentanyl, Drug Policy*
 
 
-####An immediate crisis
+##An immediate crisis
 
 Over 64,000 Americans died from drug overdoses in 2016, an increase of 21% over the prior year, making it the leading cause of death for people under 50. The vast majority of fatal overdoses involve opioids, and the number of deaths involving fentanyl (a synthetic opioid up to 100 times as potent as morphine) has increased from 3,000 three years ago, to over 20,000 last year ^[1]. An emergency treatment called Naloxone is effective at reversing overdoses, however, it is a prescription medication and therefore not generally available to the public or first responders. Easier access to Naloxone could be a critical tool in the fight against deaths by overdose.
 
-####A Front Line Response
+##A Front Line Response
 
 The underlying causes of the opioid crisis are complex, and lasting solutions will require a multi-disciplinary focus and potentially long term structural changes. This proposal seeks to address only one aspect, which is the immediate lethality of the current problem, by making resources available in a way that provides victims the best chance of survival.
 
@@ -21,7 +22,7 @@ State-level data is available showing the introduction and progression of these 
 
 The second part would be to identify hotspots of fentanyl-related events, which can require multiple doses of Naloxone to deal with. Regional, non-random concentrations of overdoses may indicate its use by a local trafficker. Effective intervention would require access to contemporary and continually updated data, but it would allow first responders and other emergency staff to ensure that they are prepared with sufficient doses, and that they take proper precautions to avoid exposure to a highly toxic substance. Visualizations showing the location of events over time could provide valuable information to law enforcement, potentially helping to identify the source, spread and likely supply routes of fentanyl-tainted products.
 
-####Desired Outcome
+##Desired Outcome
 
 The overall goal of the study is to provide information that can be used to maximize the availability of Naloxone in order to reduce preventable deaths. This will be done in two ways; first, by identifying the most effective legal framework that could be implemented and using the results to influence policymakers, and second, by ensuring that sufficient supplies are targeted to the areas where they are most required.   
 
