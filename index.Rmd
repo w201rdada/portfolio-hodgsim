@@ -32,12 +32,12 @@ Record numbers of people in this country are overdosing on opioids, however, mos
 
 ### Abstract of my second cool idea
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
+Millions of people in emerging economies need access to small amounts of capital, while willing donors in mature economies have excess capital to lend. Microfinance initiatives attempt to link the two, in an effort to alleviate poverty in a sustainable way. However, without access to traditional data used in lending decisions (employment history, income, assets etc), it can be difficult to assess whether a loan is properly priced and is likely to be successfully repaid. This project would study outcomes for a large body of loan data, in an attempt to identify common traits that might be used to estimate credit risk in the absence of traditional measures.
   
 
 
 ## About the author
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+Simon is an experienced finance professional, and an inexperienced web designer.
 
 *Updated: `r Sys.Date()`*
