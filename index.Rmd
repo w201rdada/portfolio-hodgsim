@@ -23,7 +23,7 @@ knitr::include_graphics('img/Kiva.jpg')
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
 ```{r hello-benji,echo=FALSE,fig.cap='',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/1UphYOL8bGxQPz_kRJgBJ33-N8uaRLilq/view?usp=sharing')
+knitr::include_url('https://vimeo.com/245095323/f289dbe9bc')
 ```
 
 ### Abstract of my first cool idea {-}
