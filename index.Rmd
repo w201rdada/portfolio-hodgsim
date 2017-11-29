@@ -15,8 +15,8 @@ library(magrittr)
 # Welcome
 
 <!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/kiva.jpg')
+```{r hello-world,echo=FALSE,fig.cap='',fig.align='center',out.width='50%'}
+knitr::include_graphics('img/Kiva.jpg')
 ```
 
 
